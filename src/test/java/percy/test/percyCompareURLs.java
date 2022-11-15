@@ -21,8 +21,8 @@ public class percyCompareURLs extends BaseTest {
         driver.navigate().to(Non_PROD_URL+"/docs");
         percy.snapshot("/docs page", Arrays.asList(375, 480, 720, 1280, 1440, 1920), null, false, "div#main-content, div.wrapper {overflow: visible !important}");
 */
-        driver.get("http://localhost:8888/web/viewer.html?file=%2Ftest%2Fpdfs%2FNFT%20Web%20Design%20Mobile%20UI%20(Community).pdf");
-        percy.snapshot("/page", Arrays.asList(720));
+        driver.get("http://localhost:8888/web/viewer.html?file=%2Ftest%2Fpdfs%2FShowText-ShadingPattern.pdf");
+        percy.snapshot("1-page", Arrays.asList(375,1280));
 
     }
 

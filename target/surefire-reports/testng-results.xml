@@ -2,20 +2,20 @@
 <testng-results total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-21T14:03:51Z" name="Suite" finished-at="2022-10-21T14:04:05Z" duration-ms="14270">
+  <suite started-at="2022-11-15T16:08:34Z" name="Suite" finished-at="2022-11-15T16:08:40Z" duration-ms="5357">
     <groups>
     </groups>
-    <test started-at="2022-10-21T14:03:51Z" name="percyTest" finished-at="2022-10-21T14:04:05Z" duration-ms="14270">
+    <test started-at="2022-11-15T16:08:34Z" name="percyTest" finished-at="2022-11-15T16:08:40Z" duration-ms="5357">
       <class name="percy.test.percyCompareURLs">
-        <test-method is-config="true" signature="setup()[pri:0, instance:percy.test.percyCompareURLs@2f943d71]" started-at="2022-10-21T19:33:51Z" name="setup" finished-at="2022-10-21T19:34:01Z" duration-ms="10248" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:percy.test.percyCompareURLs@2f943d71]" started-at="2022-11-15T21:38:34Z" name="setup" finished-at="2022-11-15T21:38:39Z" duration-ms="4115" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="snapshotCompare()[pri:0, instance:percy.test.percyCompareURLs@2f943d71]" started-at="2022-10-21T19:34:01Z" name="snapshotCompare" finished-at="2022-10-21T19:34:04Z" duration-ms="3222" status="PASS">
+        <test-method signature="snapshotCompare()[pri:0, instance:percy.test.percyCompareURLs@2f943d71]" started-at="2022-11-15T21:38:39Z" name="snapshotCompare" finished-at="2022-11-15T21:38:39Z" duration-ms="781" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- snapshotCompare -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:percy.test.percyCompareURLs@2f943d71]" started-at="2022-10-21T19:34:04Z" name="tearDown" finished-at="2022-10-21T19:34:05Z" duration-ms="758" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:percy.test.percyCompareURLs@2f943d71]" started-at="2022-11-15T21:38:39Z" name="tearDown" finished-at="2022-11-15T21:38:40Z" duration-ms="452" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
