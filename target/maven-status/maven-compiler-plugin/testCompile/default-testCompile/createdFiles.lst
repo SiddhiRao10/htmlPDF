@@ -1,0 +1,4 @@
+percy/test/htmlTest.class
+percy/test/percyCompareURLs.class
+percy/test/BaseTest.class
+percy/test/App.class
